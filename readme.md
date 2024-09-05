@@ -16,7 +16,15 @@ You can find it in Joern's historical releases:  https://github.com/joernio/joer
 - tqdm 4.64.1
 - numpy 1.23.3
 - sklearn 1.1.2
-
+- CodeLlama-7B
+You can find it in Hugging Face:  https://huggingface.co/meta-llama/CodeLlama-7b-hf
+- CodeShell-7B
+You can find it in Hugging Face:  https://huggingface.co/WisdomShell/CodeShell-7B
+- StableCode-3B
+You can find it in Hugging Face:  https://huggingface.co/stabilityai/stable-code-3b
+- StarCoder-3B
+You can find it in Hugging Face:  https://huggingface.co/bigcode/starcoderbase-3b
+  
 ## Preprocess
 1.Run data_process file folder  ```Bigvul_data_preprocess.py``` to get codes from MSR dataset.
 
