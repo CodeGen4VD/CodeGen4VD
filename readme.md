@@ -1,7 +1,7 @@
-# CodeGen4VD
+## CodeGen4VD
 We implement CodeGen4VD, a novel method to improve vulnerability detection by leveraging the code generation capabilities of CodeLLMs. 
 
-# Dataset
+## Dataset
 
 The Dataset we used in the paper:
 Fan et al / MSR'20: https://drive.google.com/file/d/1-0VhnHBp9IGh90s2wCNjeCMuy70HPl8X/view?usp=sharing
